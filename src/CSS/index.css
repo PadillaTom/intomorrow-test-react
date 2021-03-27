@@ -1,0 +1,40 @@
+/* Colors */
+/* Font Colors */
+/* Ctas */
+/* Fonts */
+/* Others */
+#root {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  background-color: #fff;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  border: none;
+  outline: none;
+  background: none;
+}
+
+/* --------------------------------------------------- */
+/* --------------------- MAIN APP -------------------- */
+/* --------------------------------------------------- */
+/*# sourceMappingURL=index.css.map */
